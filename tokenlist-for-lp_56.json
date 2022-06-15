@@ -1,0 +1,32 @@
+{
+  "maintainer": "Unifarm",
+  "ipfs": "ipfs://",
+  "tokenlist": [
+    {
+      "lpToken": "0x6b19a3c14c32e6d6e8aa993f75c887b0222388f5",
+      "decimals": 18,
+      "dex": "PancakeSwap",
+      "tokens": [
+        {
+          "name": "Unifarm Token",
+          "symbol": "UFARM",
+          "address": "0x0A356f512f6fCE740111ee04Ab1699017a908680",
+          "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
+          "decimals": 18,
+          "price": 0.001844,
+          "chainId": 56
+        },
+        {
+          "name": "Wrapped BNB",
+          "symbol": "WBNB",
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "icon": "https://oropocket.com/unifarm/assets/icons/wbnb.png",
+          "decimals": 18,
+          "price": 211.34,
+          "chainId": 56
+        }
+      ],
+      "chainId": 56
+    }
+  ]
+}
